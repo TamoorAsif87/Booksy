@@ -1,0 +1,122 @@
+[
+    {
+        "Id": "1c3aee8b-df02-4f9e-b6a7-01c91c6c5b01",
+        "Name": "Fiction",
+        "Created": "2025-05-03T00:00:00Z",
+        "Updated": "2025-05-03T00:00:00Z"
+    },
+    {
+        "Id": "2a5b9f93-2e49-4c1c-b91a-88e9c91a6d65",
+        "Name": "Non-Fiction",
+        "Created": "2025-05-03T00:00:00Z",
+        "Updated": "2025-05-03T00:00:00Z"
+    },
+    {
+        "Id": "35e7efba-093f-41a3-91aa-0c7d3f3d61f2",
+        "Name": "Science Fiction",
+        "Created": "2025-05-03T00:00:00Z",
+        "Updated": "2025-05-03T00:00:00Z"
+    },
+    {
+        "Id": "4ec839e1-d6b5-41de-aef2-c88088f4cb8e",
+        "Name": "Fantasy",
+        "Created": "2025-05-03T00:00:00Z",
+        "Updated": "2025-05-03T00:00:00Z"
+    },
+    {
+        "Id": "54cbdb93-6f24-4379-9738-d1e2d2331be3",
+        "Name": "Mystery",
+        "Created": "2025-05-03T00:00:00Z",
+        "Updated": "2025-05-03T00:00:00Z"
+    },
+    {
+        "Id": "6dc9cbd7-803e-41d5-92fa-2d0e0b8d4cf5",
+        "Name": "Thriller",
+        "Created": "2025-05-03T00:00:00Z",
+        "Updated": "2025-05-03T00:00:00Z"
+    },
+    {
+        "Id": "730f4315-cc56-4cc3-a382-b542c4e00f1a",
+        "Name": "Romance",
+        "Created": "2025-05-03T00:00:00Z",
+        "Updated": "2025-05-03T00:00:00Z"
+    },
+    {
+        "Id": "8b623964-38a9-4463-913f-4ae28ac4e230",
+        "Name": "Historical Fiction",
+        "Created": "2025-05-03T00:00:00Z",
+        "Updated": "2025-05-03T00:00:00Z"
+    },
+    {
+        "Id": "9c0b7d3a-3d97-4a4d-b167-60c67e53556b",
+        "Name": "Biography",
+        "Created": "2025-05-03T00:00:00Z",
+        "Updated": "2025-05-03T00:00:00Z"
+    },
+    {
+        "Id": "a8d75f01-bb4d-4fd4-b8d5-1d90eb50f1c4",
+        "Name": "Autobiography",
+        "Created": "2025-05-03T00:00:00Z",
+        "Updated": "2025-05-03T00:00:00Z"
+    },
+    {
+        "Id": "b23e469f-9b36-49d0-a2e5-62f90d2430c6",
+        "Name": "Self-Help",
+        "Created": "2025-05-03T00:00:00Z",
+        "Updated": "2025-05-03T00:00:00Z"
+    },
+    {
+        "Id": "c45e33f4-9ddf-4b59-8922-8a6745eb4b56",
+        "Name": "Health & Wellness",
+        "Created": "2025-05-03T00:00:00Z",
+        "Updated": "2025-05-03T00:00:00Z"
+    },
+    {
+        "Id": "d7f2c0ea-d2f1-40cc-bfae-536c3f6edb31",
+        "Name": "Science",
+        "Created": "2025-05-03T00:00:00Z",
+        "Updated": "2025-05-03T00:00:00Z"
+    },
+    {
+        "Id": "e61c9b5b-3b7f-4ad1-8481-bfe8bbf2c9d5",
+        "Name": "Philosophy",
+        "Created": "2025-05-03T00:00:00Z",
+        "Updated": "2025-05-03T00:00:00Z"
+    },
+    {
+        "Id": "f7c03c46-f191-4cbb-b197-d760004ae80f",
+        "Name": "Religion",
+        "Created": "2025-05-03T00:00:00Z",
+        "Updated": "2025-05-03T00:00:00Z"
+    },
+    {
+        "Id": "045e4121-d4b7-429f-8bb7-693d3e57911b",
+        "Name": "Poetry",
+        "Created": "2025-05-03T00:00:00Z",
+        "Updated": "2025-05-03T00:00:00Z"
+    },
+    {
+        "Id": "1517d8a2-0641-4d90-998f-0590d3b167a6",
+        "Name": "Children's Books",
+        "Created": "2025-05-03T00:00:00Z",
+        "Updated": "2025-05-03T00:00:00Z"
+    },
+    {
+        "Id": "276d33b2-f7aa-4e34-a457-e8bd3f1710a5",
+        "Name": "Young Adult",
+        "Created": "2025-05-03T00:00:00Z",
+        "Updated": "2025-05-03T00:00:00Z"
+    },
+    {
+        "Id": "388ace41-4f1f-4372-858e-9536e979e55f",
+        "Name": "Comics & Graphic Novels",
+        "Created": "2025-05-03T00:00:00Z",
+        "Updated": "2025-05-03T00:00:00Z"
+    },
+    {
+        "Id": "49fd9494-90c1-47e9-8e61-b3a345f2ce0c",
+        "Name": "Travel",
+        "Created": "2025-05-03T00:00:00Z",
+        "Updated": "2025-05-03T00:00:00Z"
+    }
+]
